@@ -2,7 +2,7 @@ package com.example.dddpracticeorder.application.partner;
 
 import org.springframework.stereotype.Service;
 
-import com.example.dddpracticeorder.domain.NotificationService;
+import com.example.dddpracticeorder.domain.notification.NotificationService;
 import com.example.dddpracticeorder.domain.partner.PartnerCommand;
 import com.example.dddpracticeorder.domain.partner.PartnerInfo;
 import com.example.dddpracticeorder.domain.partner.PartnerService;
