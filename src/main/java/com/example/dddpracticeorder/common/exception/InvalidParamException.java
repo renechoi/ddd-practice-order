@@ -1,6 +1,6 @@
 package com.example.dddpracticeorder.common.exception;
 
-import dev.practice.order.common.response.ErrorCode;
+import com.example.dddpracticeorder.common.response.ErrorCode;
 
 public class InvalidParamException extends BaseException {
 
