@@ -1,4 +1,4 @@
-package com.example.dddpracticeorder.domain;
+package com.example.dddpracticeorder.domain.partner;
 
 import static org.apache.commons.lang3.StringUtils.*;
 
@@ -12,6 +12,7 @@ import javax.persistence.Table;
 
 import com.example.dddpracticeorder.common.exception.InvalidParamException;
 import com.example.dddpracticeorder.common.util.TokenGenerator;
+import com.example.dddpracticeorder.domain.AbstractEntity;
 
 import lombok.Builder;
 import lombok.Getter;
